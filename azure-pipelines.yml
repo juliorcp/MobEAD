@@ -9,7 +9,7 @@ trigger:
 pool:
   vmImage: 'windows-latest'
 
-# Command line
+# Command linee
 # Run a command line script using Bash on Linux and macOS and cmd.exe on Windows
 
 
